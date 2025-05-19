@@ -1,1 +1,1 @@
-# desafios-de-codigo-java
+Este repositório foi criado com o intuito de salvar os desafios realizados em Bootcamps realizados por mim na plataforma da DIO, onde foram oferecidos desafios para soluções em Java. Para cada Bootcamp será criada uma pasta organizada com cada um.
